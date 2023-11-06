@@ -1,0 +1,15 @@
+
+
+#surface {
+	border-collapse: collapse;
+	font-family: monospace;
+	font-size: 1.5em;
+	box-shadow: 30px 30px 50px black;
+	background: url('/media/alpha.png');
+	
+}
+
+body {
+	background-repeat: no-repeat, repeat;
+	background-position: top, bottom;
+}
